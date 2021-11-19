@@ -1,6 +1,8 @@
-# advent-of-code-kotlin-template
-Advent of Code template project for Kotlin
+# aoctest
 
-![file:kotlin]
+![Tests](https://github.com/hsz/aoctest/workflows/Tests/badge.svg)
 
-[file:kotlin]: .github/readme/kotlin.svg
+---
+Repository based on the [Advent of Code Kotlin Template][template].
+
+[template]: https://github.com/hsz/advent-of-code-kotlin-template

@@ -1,4 +1,4 @@
-package com.github.hsz.aoc
+package com.github.hsz.aoctest
 
 /**
  * Maps a string containing integers in new lines to a list of integers.

@@ -1,6 +1,6 @@
-package com.github.hsz.aoc.aoc2021
+package com.github.hsz.aoctest.aoc2021
 
-import com.github.hsz.aoc.Day
+import com.github.hsz.aoctest.Day
 
 class Day01 : Day(2021, 1) {
 
